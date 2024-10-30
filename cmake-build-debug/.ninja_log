@@ -1,0 +1,5 @@
+# ninja log v6
+7	1127	1730192914325847327	CMakeFiles/Caballo.dir/factorial.cpp.o	df35a5524b229c27
+3	83	1730303131381428104	build.ninja	6618f0213b9e1daa
+9	1196	1730191593494571886	CMakeFiles/Caballo.dir/main.cpp.o	203d42cc5ae0a2fd
+8	1128	1730192914326949571	CMakeFiles/Caballo.dir/suma20nums.cpp.o	5682caaa1301a0a3
